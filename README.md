@@ -1,6 +1,6 @@
 ### Hello, I'm Bao Tran 👋
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Btrxnx&show_icons=true&theme=radical)
 - 🔭 I’m currently working on Senior Design Project 
 - 🌱 I’m currently learning Swift, Ruby
 - 👯 I’m looking to collaborate on ...
